@@ -1,0 +1,23 @@
+/* url(variables.css) */
+
+:root{
+
+--primary:#1e90ff;
+
+--secondary:#0a3d62;
+
+--background:#f5f9ff;
+
+--white:#ffffff;
+
+--text:#333;
+
+--radius:10px;
+
+--shadow:0 5px 15px rgba(0,0,0,0.05);
+
+--container:1100px;
+
+--section-padding:80px;
+
+}

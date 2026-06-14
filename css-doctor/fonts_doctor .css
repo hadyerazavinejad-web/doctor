@@ -1,0 +1,37 @@
+
+/* fonts.css */
+
+
+/* --------------------------
+   FONT: SHABNAM - فونت شبنم
+--------------------------- */
+
+@font-face {
+  font-family: "Shabnam";
+  src: url("../fonts/Shabnam-FD-WOL.woff2") format("woff2"),
+       url("../fonts/Shabnam-FD-WOL.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Shabnam";
+  src: url("../fonts/Shabnam-Bold-FD-WOL.woff2") format("woff2"),
+       url("../fonts/Shabnam-Bold-FD.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Shabnam";
+  src: url("../fonts/Shabnam-Light-FD-WOL.woff2") format("woff2"),
+       url("../fonts/Shabnam-Light-FD.woff") format("woff");
+  font-weight: 300;
+  font-display: swap;
+}
+
+/* اعمال فونت روی کل سایت */
+body {
+  font-family: "Shabnam",  sans-serif;
+}
+ 
